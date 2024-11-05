@@ -1,2 +1,4 @@
 # Oasis-infobyte-
-Internship 
+INTERNSHIP PROJECT 
+Task1 RESERVATION SYSTEM 
+Task2 NUMBER GUESSING GAME 
